@@ -1,0 +1,5 @@
+kivy
+requests
+pyjnius
+android
+plyer

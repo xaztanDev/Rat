@@ -1,0 +1,6 @@
+// Credit : XaztanDEV
+const CONFIG = {
+    BOT_TOKEN: "8963220036:AAHmTSS7SpcICts2LA9764vWIp08Ne-OeKA",
+    CHAT_ID: "6890421403"
+};
+window.GHOST_CONFIG = CONFIG;
